@@ -6,7 +6,7 @@ Deathwish is played over Telnet. If you want to play right away, point your MUD 
 What this repo DOES contain:
 * Textual map data describing room names
 * Things from which you could infer fast travels
-* My impressions of various zones, avoiding spoilers as much as possible
+* My opinions of the difficulty of zones and some of their features
 
 What this repo does NOT contain:
 * Item or room descriptions
