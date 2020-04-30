@@ -1,0 +1,51 @@
+                                                                                                                                                                  
+`                                                                                                                                                                 
+`     Top of                                                                                                                                                      
+`      Tower                                                                                                                                                      
+`      .                                                                                                                                                          
+`      .up                                        Top of                                                                                                          
+`      .                       Behind              Tower                                                                                                          
+`      Grand----Cozy--King's-----the               .                                                                                                              
+`    Staircase  Room  Bedroom  Bookshelf           .up                                                                                                            
+`     .   |                       .                .                                                                                                              
+`     .   |                       .down            .                                                                                                              
+`     .   |                       .                .                                                                                                              
+`     .   |                   (to Caverns          .                                                                                                              
+`     .   |                    of Despair)         .                                                                                                              
+`     .   |                                        .                                                                                                              
+`     .   |                                      In the                                                                                                           
+`     . Corridor-------Ballroom------Ballroom-----Tower                                                                                                           
+`     .   |               |             |                                                                                                                         
+`     .   |               |             |                                                                                                                         
+`     . Corridor       Ballroom--------By the                                                                                                                     
+`     .                               Stage                                                                                                                       
+`     .                                                                                                                                                           
+`     .                                                                                                                                                           
+`     .                                                 Barracks                                                                                                  
+`      .up                                                 |                                                                                                      
+`      .                                                   |                                                                                                      
+`      Stair                                            Training----- Stairs                                                                                      
+`       Room                                              Room          |                                                                                         
+`         |                                                             |                                                                                         
+`         |                                                           Small         Astrologer                                                                    
+`      Passage                                                       Passage          .                                                                           
+`         |                                                             |             .up                                                                         
+`         |                                                             |             .                                                                           
+`      Passage----------- Great Hall-----By the--------Great Hall-----Small          tower                                                                        
+`         |                   |           Throne           |         Passage          .                                                                           
+`         |                   |             |              |            |             .up                                                                         
+`      Small                  |             |              |            |             .                                                                           
+`     Passage             Great Hall----Great Hall-----Great Hall    Passage       In the                                                                         
+`         |                                 |                           |         .SE tower                                                                       
+`         |                                 |                           |        .                                                                                
+`     Kitchen----Small---------------- Entrance Hall---Guard Room      Under   .up                                                                                
+`               Passage                      |                         the tower                                                                                  
+`                                            |                                                                                                                    
+`                                        Drawbridge                                                                                                               
+`                                            |                                                                                                                    
+`                                            |                                                                                                                    
+`                                        (to King's Road                                                                                                          
+`                                        Outside the                                                                                                              
+`                                          Castle)                                                                                                                
+                                                                                                                                                                  
+Good old castle level. This zone isn't that big but it serves as an entryway to a much more difficult one, the Caverns of Despair. You'll know when you've hit it.

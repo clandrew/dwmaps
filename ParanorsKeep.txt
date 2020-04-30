@@ -1,0 +1,157 @@
+Paranor's Keep
+
+
+Keep Entrance
+
+`                                                                                                  
+`  (from Dwarven---Great                                                                        
+`     village)     Stairs                                                                             
+`                    .                                                                                
+`                    .                                                                               
+`                    .down                                                                          
+`                    .                                                                               
+`                 Great Stairs----Gates---Inside---Courtyard---Courtyard---Outside ----(unlock gate)-- to Inside             
+`                                         Gates                            to Inner      east/west       Gate (F1)
+`                                                                          Sactum                
+`                                                                                                  
+`                    
+`             
+`                   
+`
+
+
+1st Floor (F1)
+
+`                             
+`                                                                                                   
+`               (up to F2-NW)                                                                   (up to F2-NE)
+`                    .                                                           End of             .
+`                  North                        NW-     NW-     NW-     NW-      Northeastern/    North-
+`                 western-------Northwestern----NE------NE------NE------NE-------Northwestern----eastern
+`                  Tower            End         Crdr    Crdr    Crdr    Crdr      Hall            Tower
+`                 (F1-NW)            |                                              |              (F1-NE)
+`                                    |                                              |  
+`                                 Northern                                      NE/SE  
+`                                 Hallway                                        Corridor
+`                                    |                                              |  
+`                                    |                                              |  
+`                                 Northern                                      NE/SE  
+`                                 Hallway                                        Corridor
+`                                    |                                              |  
+`                                    |                                              |  
+`                                 Northern                                      NE/SE  
+`                                 Hallway                                        Corridor
+`                                    |                                              | 
+`                                    |                                              | 
+`    (from .......................Inside                                        NE/SE             
+`    Inner                        Gate (F1)                                      Corridor
+`   Sanctum)                         |                                              | 
+`                                    |                                              |                
+`                                Southern                                       NE/SE                 
+`                                 Hallway                                        Corridor           
+`                                    |                                              |                   
+`                                    |                                              |                    
+`                                Southern                                           |                           
+`                                 Hallway                                           |                
+`            (up to F2-SW)           |                                              |         (up to F2-SE)
+`                   .                |                                              |              .  
+`                 South-          End of        SW/     SW/     SW/     SW/      End of          South-
+`               Western ------ SouthWestern/----SE------SE------SE------SE------N.Eastern/------Eastern
+`                 Tower        SouthEastern    Crdr    Crdr    Crdr    Crdr     S.Eastern        Tower
+`               (F1-SW)          Corridor                                        Corridor        (F1-SE)
+`                        
+`                         
+`                                                                                                                     
+`
+
+2nd Floor (F2)
+`                                                                                                             
+`                                                                                                             
+`      (up to FT-NW)                                                                         (up to FT-NE)  
+`           .                                                                                     .           
+`         North-         End of                                               Northern/         North-                                
+`        Western ------ Western-----North--North--North--North--North--North-- Eastern ------- eastern                                                                          
+`         Tower         Corridor    Crdr   Crdr   Crdr   Crdr   Crdr   Crdr   Corridor          Tower                                                                  
+`       2nd Floor          |                                                  Intersection     2nd Floor                             
+`        (F2-NW)           |                                                     |              (F2-NE)                 
+`           .           Western                                               Eastern             .                                                                       
+`           .           Corridor                                              Corridor            .                                                                      
+`      (down to            |                                                     |              (down to                                                              
+`        F1-NW)            |                                                     |               F1-NE)                                                               
+`                       Western                                               Eastern                                                                                     
+`                       Corridor                                              Corridor                                                                                   
+`                          |                                                     |                                                                                    
+`                          |                                                     |                                                                                    
+`                       Western                                               Eastern                                                                                     
+`                       Corridor                                              Corridor                                                                                   
+`                          |                                                     |                                                                                    
+`                          |                                                     |                                                                                    
+`                       Western                                               Eastern                                                                                     
+`                       Corridor                                              Corridor                                                                                   
+`                          |                                                     |                                                                                    
+`                          |                                                     |                                                                                    
+`                       Western                                               Eastern                                                                                     
+`                       Corridor                                              Corridor                                                                                   
+`                          |                                                     |                                                                                    
+`                          |                                                     |                                                                                    
+`                       Western                                               Eastern                                      
+`                       Corridor                                              Corridor                                 
+`  (up to FT-SW)           |                                                     |                (up to FT-SE)
+`           .              |                                                     |                    .                 
+`         South- ----- A Dimly Lit--South--South--South--South--South--South--Eastern/   ---------- South-                                                                
+`        Western         Hallway    Crdr   Crdr   Crdr   Crdr   Crdr   Crdr   Southern Corridor    eastern                                                                      
+`         Tower                                                               Intersection          Tower                             
+`       2nd Floor                                                                                 2nd Floor            
+`        (F2-SW)                                                                                   (F2-SE)            
+`           .                                                                                         .       
+`           .                                                                                         .       
+`     (down to                                                                                    (down to    
+`        F1-SW)                                                                                      F1-SE)   
+`                                                                                                             
+`                                                                                                             
+`                                                                                                              
+`                                                                                                              
+`                                                                                                              
+`
+
+
+Top Floor (FT)
+`                                                                                                             
+`                                                                                                             
+`        Northwestern     Upon    Upon    Upon    Upon       Northeastern                                                
+`           Tower---------Battle--Battle--Battle--Battle-------Tower                                                    
+`          (FT-NW)        ments   ments   ments   ments        (FT-NE)                                                  
+`          .    |                                              |    .                                                
+`          .    |                                              |    .                                                
+`     (down to  Upon                                        Upon    (down to                                          
+`      F2-NW)   Battle-                                     Battle-    F2-NE)                                                
+`               ments                                       ments                                                    
+`               |                                              |                                                      
+`               |                                              |                                                      
+`         Upon Battlements                               Upon Battlements                                         
+`               |                                              |                                              
+`               |                                              |                                                      
+`         Upon Battlements                               Upon Battlements <---(Tarne)                                        
+`               |                                              |                                              
+`               |                                              |                                                      
+`         Upon Battlements                               Upon Battlements                                         
+`               |                                              |                                              
+`               |                                              |                                                      
+`        Southwestern     Upon    Upon    Upon    Upon       Southeastern     
+`           Tower-------- Battle--Battle--Battle--Battle------ Tower                                                  
+`           (FT-SW)       ments   ments   ments   ments        (FT-SE)                                                
+`              .                                                  .                                               
+`              .                                                  .                                               
+`           (down to                                           (down to                                        
+`             F2-SW)                                             F2-SE)                                        
+`                                                                                                                     
+`                                                                                                                     
+`                                                                                                                     
+`                                                                                                             
+`                                                                                                                     
+`                                                                                                                     
+`                                                                                                                     
+`                                                                                                                     
+
+The layout of this zone is fairly intuitive. As for everything else, I have to admit that thematically I don't really 'get' this zone. Probably is a reference to something I'm just not in on.
+One highlight is there's a boss on the top floor. If you find you aren't doing damage to it, try to find out the set of things it might be impervious to.                                                                                                               

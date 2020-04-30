@@ -1,0 +1,41 @@
+`
+`           Common's Square (Asgaard)
+`                 |
+`               Dump
+`                 |
+`            South Bridge
+`                 |
+`              Trail to   
+`              Miden'Nir --  Miden'Nir
+`                 |              |
+`    SmPath --  Miden'Nir    Miden'Nir - Foot of 
+`       |         |              |       Mountain
+`       |         |              |         |
+`     Trail    Crossroads ---   Deep  - Miden'Nir
+`       |         |            Forest
+`       |         |              |
+`     Light  --  Sink -----  Near Mountain
+`     Forest      |
+`              Dark Path
+`                 |
+`       Stench - Carnage
+`          |         
+`       Fading
+`       Trail
+`          |
+`      Verge of
+`      Darkness
+`          |
+`       Entrance
+`     /         \  
+`  Army           Army     
+` Encamp         Encamp
+`   \             /
+`     \   tent  /
+`       \  |  /
+`       Proving
+`       Grounds
+
+You know how the overworld map is not to scale-- it might appear like Miden'Nir is really far south of Asgaard, but in fact it's just south of the city walls. Because of proximity to the city some new players wander into Miden'Nir and encounter problems. There are orcs, wyverns, other monsters. Some are high in number and auto-aggressive! The zone is not too bad, but it's easy for new solo players to be overwhelmed.
+
+In the tent at the southern part you can find a boss, Kraw. If you have doubts, I don't recommend fighting Kraw unless you can clear out the rest of the zone easily since you will want a clear path of retreat in case things go wrong. The mobs here like to move around a lot.

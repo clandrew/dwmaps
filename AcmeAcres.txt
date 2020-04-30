@@ -1,0 +1,30 @@
+`                                                    Portal, from east gate of Asgaard 
+`                                                      |
+`                                                   Entrance
+`                                                      |
+`                                                   Courtyard
+`                                                      |
+`                                                   Fountain--Study Break 
+`                                                      |
+`                                                    Steps
+`                                                      |
+`                           Bugs        Daffy       Entrance    Physics      Elmer
+`                            |            |            |          |           |
+`        Detention--Corner--Hall--Hall--Hall--Hall--Grand--Hall--Hall--Hall--Hall--Corner 
+`                     |            |                 Hall               |            |
+`                     |          Porky                                 Home          |
+`                     |                                                 Ec           |
+`                    Hall                                                           Hall
+`                     |                                                              |
+`                     |                                                              |
+`   Principal's...    |                                                              |
+`     Office      \  Hall                                                  Foghorn--Hall
+`                  .  |                                                              |
+`                   . |          Granny                               Tweety         |
+`                 up' |            |                                    |            |
+`                   Stairs--Hall--Hall--Hall--Hall--Cafeteria----Hall--Hall--Hall--Corner
+`                            |           |                        |           |
+`                          Ralph       Driver's                  Pepe       Marvin
+`                                       Ed
+
+THE early-to-mid-game grinding zone. Sometimes you'll find competition over this zone :P

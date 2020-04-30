@@ -1,0 +1,39 @@
+man
+  root
+    usr
+      games
+        muds <-- Lag monster
+        hack
+      src
+        emacs
+          lib
+          lisp
+        linux
+          boot
+          kernel
+          drivers
+            block
+            char
+            net
+            scsi
+            sound
+          net
+            inet
+      etc
+      bin
+      lib
+        emacs
+        ppp
+        terminfo
+        setup
+        spool
+          mail
+    bin
+    etc
+      skel
+    dev
+      null <-- Death trap
+    home
+      bsmith
+      mjones
+      jzapata

@@ -1,0 +1,18 @@
+
+
+`                       (to                     (to                            (to
+`                       Acme                  Dwarven Maze)                 Kings Castle)
+`              (to     ..Acres)                   |                              |
+`           Asgaard)   .                          |                              |
+`                 |   .up                      The Lane                      Drawbridge
+`                 |   .                           |                              |
+`                 |  .                            |                              |
+`    (to       Inside     Outside                 |                           Outside   
+`   Asgaard)---Eastern----Eastern----City------Turning-----King's----King's---- the --- (to Chessboard)
+`               Gate       Gate     Entrance    Point      Road      Road     Castle
+`                 |         |                       .            
+`                 |         |                        .down   
+`              Eastern   N Campus                    .
+`               Wall     Entrance                    .(to
+`               Road                                 . Dwarven
+`                                                      Village)

@@ -1,0 +1,154 @@
+`                                                                                                                                               
+`                                                                                                                                               
+`                                                                                                                                               
+`                                                                                                                                               
+`                                                                                                                                               
+`                                                                                                                                               
+`                                                                                                                                               
+`                                                                                                                                               
+`                                                                                                                                               
+`                       Mountain----Mountain----Mountain----Mountain                                                                            
+`                         Path        Path       Path         Path                                                                              
+`                          |                                    |                                                                               
+`                          |                                    |           
+`                      Entrance to                          Mountain                                                                            
+`                       a Cave                                Path                                                                              
+`                          |                                    |                                                                               
+`                      Dark and                                 |                                                                               
+`                      Gloomy Cave                              |                                                                               
+`                          .                                    |                                                                               
+`                          .down                                |                      Mountain                                                 
+`                          .                                    |                       Path   .
+`                      Dark Cavern                              |                         |     .     
+`                                                               |                         |      .down                                          
+`                                                           Safe Mountain---Mountain---Mountain   .                                             
+`                                                           Path             Path       Path       .                                            
+`                                                           /                                    A Steep Path                                   
+`                                                          /                                     Leading into the                               
+`                    Mountain----Mountain               Mountain                                  Valley Below                                  
+`                    Path        Path                   Path                                                                                    
+`                  /                 \                  /                                                                                       
+`                 /                   \                /                                                                                        
+`          Mountain                  Mountain      Mountain                                                                                     
+`           Path                       Path        Path                                                                                         
+`           /                             \         /                                                                                           
+`          /                               \       /                                                                                            
+`     Mountain                             A Fork in                                                                                            
+`      Path                                 the Path                                                                                              
+`        |                                     |                                                                                               
+`        |                                     |                                                                                               
+`     Mountain                             Mountain                                                                                             
+`      Path                                   Path                                                                                              
+`         \                                    |                                                                                                
+`          \                                   |                                                                                                
+`           Entrance to                    Mountain                                                                                             
+`           a Tunnel                          Path           Spite                                                                              
+`               \                               \          . . . . . . . . . . .                                                                
+`                \                               \        .                     .             Crumbling                                         
+`               Tunnel                            Mountain        Far Below-----Mountain----- Mountain                   Mountain---Mountain---Mountain
+`                 |                               Path            the Mountain   Path           Path \                    Path       Path       Path
+`               Tunnel                                              Path                              \                    /                     |
+`                 |                                                                                    Crumbling          /                      |
+`               Dried up--Dried up--Dried up                                                           Mountain        Mountain                Smooth      
+`                Stream    Stream    Stream                                                            Path    \        /  Path               Stone Path
+`                                      |                                                                        \      /                         |
+`                                   End of the                                                                  A Fork in                        |
+`                                   Dried up                                                                    the Path                       Smooth------(to Paranor's Keep)
+`                                   Stream                                                                        |                           Stone Path
+`                                                                                    Bedroom                      |          
+`                                                                                 .     |                         |                                                              
+`                                                                           down.       |                         |                                                              
+`                                                                             .         |                         |                                                              
+`                                                                 North Side of         |                       Mountain                                                                 
+`                                                            Castle Strangelove         |                        Path                                                                   
+`                                                                                       |                         |
+`                                                                                       |                         |                                                                                          
+`                                                                      Top of---------Queen's                     |                                                                                                        
+`                                                                    the Stairs      Waiting                      |                                                                                             
+`                                                                             .       Room                      Mountain                                                                                                  
+`                                                                             up.                                 Path                                                                                                      
+`                                                                                 .                               |                                                                                                        
+`                                                                                 Stairs                        Behind the                           
+`                                                                                      .                         Thrones                                                                                                 
+`                                                                                     up .                        |                                                                                            
+`                                                                                          .                     Throne                                                                                        
+`                                                                                           Stairs in             Room                                                                                          
+`                                                                                            the Castle           |                                                                                            
+`                                                                                               .               Northern                                                                                       
+`                                                                                                 .             Hallway
+`                                                                                                   .             |      
+`                                                                                                 up  .         Northern
+`                                                                                                       .       Hallway
+`                                                                                                         .       |
+`                                                                                        Door to the---------Inside of 
+`                                                                                           Castle       Castle Strangelove                         
+`                                                                                              |     
+`                                                                                              |        
+`                                                                                        Still on the   
+`                                                                                     Path to the Castle                                                                                                        
+`                                                                                              |                                                                                                             
+`                                                                                              |        
+`                                                                                        Path to the
+`                                                                                           Castle
+`                                                                                              | 
+`                                                                                              | 
+`                                                                               Guard----Door to the                        
+`                                                                               House       Kingdom        
+`                                                                                              |           
+`                                                                                              |        
+`                                                                                              |        
+`                                                                                              |        
+`                          Hospital                                                     North-South Path        
+`                              |                                                               |        
+`                              |                                                               |        
+`            North of-----Path by the--Path Next to--Entrance to                               |        
+`             Shops      Hospital     the Barracks  the Barracks                               |                        _____
+`                |                                         |                                   |                       /     \      _____
+`                |                                         |                                   |                      |       \    /     \
+`                |                                  First Barracks           Bend in the---Narrow Path                |       _\| |       |
+`                |                                      Room                 Narrow Path                      ,------Maze------- Maze     |
+`                |                                         |                    |                            /        |           |       |
+`                |                                         |                    |                           |         |           |       |
+` Bakery----Path to North                          Back of the                  |                           |         |           |       |
+`           of Shop                                   Barracks                  |                           |       Solved        |       |
+`                |                                                              |                           |       the Maze      |       |
+`                |                                                              |                           |         |           |       |
+`            Hide &--------Turn in                                              |                           |     Mazekeeper's    |       |
+`            Tooth Shop       the road                                          |                           |        Room         |       |
+`                                  |                                            |                           |                     |       |
+`                                  |                                            |                            \________________    |       |
+`                                Path                                           |                                            _\|  |       |
+`                                  |                                         Narrow Path                                ________ Maze     |
+`                                  |                                            |                                      /     __   |       |
+`                                  |                                            |                                      \______/|  | /|\   |
+`                      Store---Inside the-----Entrance to-----Top of the----Dark Path------Mine Entrance                          |   \__/                                                                            
+`                      Room     Entrance       the Mountain    Mountain                         .                    Mine         |           
+`                                                                  |                            .down                Maze--------Maze--------.     
+`                                                                  |                            .                      |        Inscription   \
+`                                                                  |                            .                      |                       |
+`                                                                  |                            .                      |   __________________ /
+`                                                              Path, Middle                     .                      | |/_
+`                                                                of Mountain               Bottom of the--Path In---Mine---------Coal Room
+`                                                                  |                        Mineshaft     the Mine  Crossroad
+`                                                                  |                                                   |
+`                                               (to turning    Path, Base                                              |
+`                                                    point)     of Mountain                                         Mining
+`                                                          .       |                                                Equipment Room
+`                                                      down .      |                                         
+`                                                            .Path to Dwarven                                   
+`                                                                Village                                       
+`                                                                                                                
+`                                                                                                                 
+`                                                                                                                 
+`                                                                                                                 
+`                                                                                                                 
+
+
+Be careful in the maze. There's the giant snake, and the other giant snake, but also something less obvious. 
+
+And beware, this can happen:
+  - you enter the maze using your key which consumes the key
+  - You spend time in the maze, and the door closes
+  - You can't open the door to get back out, because the door is locked and you don't have the key
+Consider having an escape plan- recalls, summon, a friend to help. Good luck!
+

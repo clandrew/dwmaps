@@ -1,0 +1,48 @@
+`                                                                                                                                               
+`                                              Treasure 
+`                                              Room                                                                                                 
+`                                                 |                                                                                              
+`                                                 |                                                                                              
+`                                              Lightning                                                                                                                                                                                                   
+`                                               Chamber                                               Treasure                                   
+`                                                 .                                                   Room                                     
+`                                                 .up                                                   |                                         
+`                                                 .                                                     |                                     
+`                     Electric-----Electric----Lightning       Floating---Floating---Windy Tunnel--Air Chamber                                                                                    
+`                     Playground   Playground  Causeway        In Air     In Air                                                                   
+`                          |          |                          |           |                                                                     
+`                          |          |                          |           |                                                                    
+`                     Electric-----Electric                    Floating---Floating                                                                     
+`                     Playground   Playground                  In Air     In Air                                                                          
+`                                     |                          |                                                                                      
+`                                     |                          |                                                                                      
+`                                  Electric----Mesa-------------Mesa                                                                                    
+`                                  Pathway     West             East                                                                                    
+`                                                |               |        Bay---Bay---Bay
+`                                                |               |         |     |     |.                                                                     
+`                                              Floor---Floor---Floor       |     |     | .                                                                                                                                                                    
+`                                                |       |       |        Bay---Bay---Bay .                                                                                                                                  
+`                                                |       |       |         |               .down                                                        
+`                                  Fiery-------Floor---Floor   Floor     In the             .                                                   
+`                                  Pathway       |       |       |       River               Water                                                       
+`                                     |          |       |       |         |                 Chamber                                                     
+`                                     |        Floor---Floor---Floor-----By the                    .                                                  
+`             Fire------Burning----Fiery         |       |       |       River                      .down
+`             Chamber   Gardens    Pathway       |       |       |                                   .                                           
+`               .                              Floor--Gateway--Floor-----Dark---Darker----Darker     Treasure Room                                                   
+`               .down                                    |               Cave   Caves     Caves                                                                      
+`               .                                        |                         |         |                                                                        
+`             Treasure                                   |                         |         |                                
+`             Room                                       |                      Darker----Darker                                                                     
+`                                                        |                      Caves     Caves                                                                      
+`                                                        |                         |         |                                                     
+`                                                        |                         |         |                                            
+`                                      Overlook          |                      Darkest---Darkest-----Earth              
+`                                         |   .          |                      Caves     Caves       Chamber 
+`                                       Vista  .down     |                                              .
+`                                               .        |                                              .down                                       
+`                                                .Entrance                                              .                                                 
+`                                                to Canyon                                              .Treasure Room
+
+
+This is a suitable zone for new players to explore. And for each of the five rulers' rooms, if you look around enough you might find a secret treasure room.
