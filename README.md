@@ -3,12 +3,14 @@ This is a repo storing ASCII-based maps for the RPG "Deathwish", a game I've pla
 
 Deathwish is played over Telnet. If you want to play right away, point your MUD or Telnet client to telnet://amud.kicks-ass.org port 1111.
 
-What this repo DOES contain:
+What this repo **does** contain:
 * Textual map data describing room names
 * Things from which you could infer fast travels
 * My opinions of the difficulty of zones and some of their features
 
-What this repo does NOT contain:
+What this repo does **does not** contain:
 * Item or room descriptions
 * Spoilers
 * Anything you can not observe as a mortal
+
+Enjoy!
