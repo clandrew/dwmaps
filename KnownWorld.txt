@@ -4,21 +4,21 @@
                                                                                                     
                                                                                                     
                                                                                                     
-                                                       Element                                      
-                                                        Canyon      ?                               
-               Timeless                                   |         |                               
-                 Wastes                                  /         /                                
-                       \   ?              ?    Acme   Moria  Kings                                  
-             Arachnos   \  |              |    Acres    |    Castle                                 
-                    \____ Haon            |    |        |     |                                     
-                           Dor ---------Asgaard----East Path--+------?                              
-                        /  |   \          City          |                                           
-                       /  Mist? \         |             |                                           
-                      /          |        |             |                                           
-                     |  ?      Lupin?   Miden          /  Parnor's                                  
-                     | /                'Nir    Dwarven___/ Keep                                    
-               Blizzard                         Kingdom                                             
-                     |                                                                              
+                                                               Element                              
+                                                                Canyon      ?                       
+               Timeless                                           |         |                       
+                 Wastes                                          /         /                        
+                       \   ?                 ?         Acme   Moria  Kings                          
+             Arachnos   \  |                 |         Acres    |    Castle                         
+                    \____ Haon               |         |        |     |                             
+                           Dor ------------Asgaard---------East Path--+------?                      
+                        /  |   \          /  City               |                                   
+                       /  Mist? \        /       |              |                                   
+                      /          |       |       |              |                                   
+                     |  ?      Lupin?  Ancient   |             /  Parnor's                          
+                     | /               Temple?   |      Dwarven___/ Keep                            
+               Blizzard                        Miden    Kingdom                                     
+                     |                         'Nir                                                 
                    Mahn                                                                             
                    Tor                                                                              
                                                                                                     

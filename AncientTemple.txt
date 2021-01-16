@@ -31,13 +31,13 @@
                                           Altar                       
                                            |                          
                                            |                          
-                                         Behind the        ?          
-                                         Altar             |          
-                                           .         ?---Abyss--?     
-                                           .down         /|\          
-                                           .              |           
-                                           .           Gate of        
-                                           .            the abyss     
+                                         Behind the                   
+                                         Altar                        
+                                           .                          
+                                           .down                      
+                                           .                          
+                                           .                          
+                                           .         (to Abyss)       
                                            .           /|\            
                                            .            |             
                                            The Dark Pit               
