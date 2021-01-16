@@ -30,8 +30,8 @@
                                                                                                     
                                                                                                     
                                                                                                     
-                                                                                                    
-                                                                                                    
+Idea: have each cell here correspond to a zoomed-in map.                                            
+Some locations aren't in the "help world" map.                                                      
                                                                                                     
                                                                                                     
                                                                                                     
