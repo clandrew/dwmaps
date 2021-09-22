@@ -1,115 +1,130 @@
-Top level (B1)
-`                                                                          
-`                                                                                  
-`                                                                                Vista 
-`                                                                              (to Elemental Canyon)
-`                                                                                  .
-`                                                                                  .up
-`                                                                                  .
-`                                                                              Blind Curve 
-`                                                                                  .
-`                                                                                  .up
-`                                                                                  .
-`                                                                             Mountainside Tombs   
-`                                                                                  .
-`                                                                                  .up
-`                                                                                  .
-`                                                                               Mountain Path   
-`                                                                                  .
-`                                                                                  .up
-`                                                                                  .
-`                                                                               Mountain Path
-`                                                                                  |
-`                                                                                Rocky Foothills
-`                                                                                  |
-`                                                                                Small Valley
-`                                                                                  |                                     Lion's
-`                                          Hill Giant's---Cave-------Level-------Grassy Area                             Den        
-`                                           Cave          Entrance   Foothills     |                                      | 
-`                                                                                Intersection--Path--Base of the--Trail--Top--Midair
-`                                                                                  |                  Mountain
-`                                                                                Foothills
-`                                                                                  |
-`                                                                 LightCave      Valley
-`                                                                     |            |
-`                                                                SmellyTunnel    Cave 
-`                                                                     |            |
-`                    Tunnel <--Damp                        Cave---ManyTunnels----Tunnel
-`                 Falls down   |                            |         |            |
-`                  (T) to B2   |                            |         |            |
-`                              |                            |         |            |
-`                The Hole(A)<--Damp-LgCave-LgCave-LgCave   Cave     Tunnel       Hole(B)
-`                   (to B2)                  |              |         |          (to B2)
-`                                         Tunnel--Tunnel--Tunnel<---Tunnel
-`                                                           |
-`                                                         Tunnel
-`                                                           |
-`                                                          Cave
-`                                                           |
-`                                                      End of the path
-`                                                           |
-`                                                          Hills
-`                                                           |
-`                                                          Hills
-`                                                           |
-`                                                          Plains
-`                                                           |
-`                                                          Lane
-`                                                           |
-`                                                           |
-`                                                     (to Turning Point)
-`   
-
-`
-`Mid level (B2)                                                         
-`                  
-`
-`                                                               `
-` Tunnel<--Long----Long---Long----Long---Tunnel                 `           Tunnel--Tunnel--Tunnel->Tunnel
-`         Tunnel  Tunnel Tunnel  Tunnel     from (V)            `             |                         jumps over to  
-`                   |                                           `           Tunnel----LightCave---Maze       (V)
-`                Golden--Golden                                 `                      |    /|\
-`                 Cave    Cave                                  `                      |      \__
-`                   |      |                                    `                  LightCave     \_
-`                Golden--Golden-Passage                         `                      |           \__
-`                 Cave    Cave     |                            `                      |              |
-`                   |              |                            `   Tunnel--Tunnel--LightCave<--Maze->Maze---Tunnel(B)
-`    DarkPassage-Golden         Passage-Tunnel-Tunnel-Hole(C)   `  (T) fall            |       /|\    /|\    (up to B1)
-`       (A)       Cave             |             /|\   (to B3)  `   from B1            |        |      |
-`    (up from B1)               Passage           |             `                    Maze----->Maze---Maze
-`                                  |              |             `                               |
-`                               Passage    Cave-Cave            `                               |
-`                                  |         |     |            `                   LgCave---LgCave
-`                               Passage----Cave-Cave            `                     |         |
-`                                                               `                   LgCave---LgCave-Tunnel--EndOfTunnel
-`                                                               `                                     |
-`                                                               `                                   Hole
-`                                                               `                               to EndOfMaze(D)
-`                                                               `                                  (down to B3)
-`
-`
-` Low level (B3)                   
-`                                                                           DarkHole
-`                                                                               |
-`                                                                      .-- SmallPassage`.
-`                                                                    |/_        |       |
-`                   Tunnel(C)-->LgTunnel----------LgTunnel---------LgTunnel--TCrossing<-'
-`                    (to B2)        |                                           |
-`                                   |                                           |
-`                               WetTunnel<--------SmallMaze--SmallMaze   TunnelAtInscription
-`                                   |                  |         |              |
-`                               WetTunnel         SmallMaze->SmallMaze---EntranceToSmallMaze
-`                                   |                  |                        |
-`                                   |                  |                        |
-`                              In The Water         WetMaze---WetMaze---->End of tunnel
-`                                   |                  |         |             /|\
-`                                   |                  |     EndOfMaze          |
-`                                   |                  |      up to (D)         |
-`                                   |                  |        (B2)            |
-`                                   |                 \|/                       |
-`                              In The Water----------InWater--------------->At the Cliff
-`
-
-
-
-Moria is a complicated zone. Where it's located, it's forseeable how new players can accidentally wander there. The enemies inside are not too bad but you run the simple risk of getting lost. It's 3D, full of loopy maze-like structures and one-way travels. Yeah, you could try and carefully navigate the whole thing. It may be quicker to simply recall out. On the plus side, you can stay on the first level and get access to Elemental Canyon.
+Top level (B1)                                                                                                                    
+`                                                                                                                                 
+`                                                                                                                                 
+`                                                                 Vista                                                           
+`                                                               (to Elemental Canyon)                                             
+`                                                                   .                                                             
+`                                                                   .up                                                           
+`                                                                   .                                                             
+`                                                               Blind Curve                                                       
+`                                                                   .                                                             
+`                                                                   .up                                                           
+`                                                                   .                                                             
+`                                                              Mountainside Tombs                                                 
+`                                                                   .                                                             
+`                                                                   .up                                                           
+`                                                                   .                                                             
+`                                                                Mountain Path                                                    
+`                                                                   .                                                             
+`                                                                   .up                                                           
+`                                                                   .                                                             
+`                                                                Mountain Path                                                    
+`                                                                   |                                                             
+`                                                                 Rocky Foothills                                                 
+`                                                                   |                                                             
+`                                                                 Small Valley                                                    
+`                                                                   |                                     Lion's                  
+`                           Hill Giant's---Cave-------Level-------Grassy Area                             Den                     
+`                            Cave          Entrance   Foothills     |                                      |                      
+`                                                                 Intersection--Path--Base of the--Trail--Top---(X)               
+`                                                                   |                  Mountain                                   
+`                                                                 Foothills                                                       
+`                                                                   |                                                             
+`                                                  LightCave      Valley                                                          
+`                                                      |            |                                                             
+`                                                 SmellyTunnel    Cave                                                            
+`                                                      |            |                                                             
+`     Tunnel <--Damp                        Cave---ManyTunnels----Tunnel                                                          
+`  Falls down   |                            |         |            |                                                             
+`   (T) to B2   |                            |         |            |                                                             
+`               |                            |         |            |                                                             
+` The Hole(A)<--Damp-LgCave-LgCave-LgCave   Cave     Tunnel       Hole(B)                                                         
+`    (to B2)                  |              |         |          (to B2)                                                         
+`                          Tunnel--Tunnel--Tunnel<---Tunnel                                                                       
+`                                            |                                                                                    
+`                                          Tunnel                                                                                 
+`                                            |                                                                                    
+`                                           Cave                                                                                  
+`                                            |                                                                                    
+`                                       End of the path                                                                           
+`                                            |                                                                                    
+`                                           Hills                                                                                 
+`                                            |                                                                                    
+`                                           Hills                                                                                 
+`                                            |                                                                                    
+`                                           Plains                                                                                
+`                                            |                                                                                    
+`                                           Lane                                                                                  
+`                                            |                                                                                    
+`                                            |                                                                                    
+`                                      (to Turning Point)                                                                         
+`                                                                                                                                 
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+`                                                                                                                                 
+`Mid level (B2)                                                                                                                   
+`                                                                                                                                 
+`                                                                                                                                 
+`                                                               `                                                                 
+` Tunnel<--Long----Long---Long----Long---Tunnel                 `           Tunnel--Tunnel--Tunnel->Tunnel                        
+`         Tunnel  Tunnel Tunnel  Tunnel     from (V)            `             |                         jumps over to             
+`                   |                                           `           Tunnel----LightCave---Maze       (V)                  
+`                Golden--Golden                                 `                      |    /|\                                   
+`                 Cave    Cave                                  `                      |      \__                                 
+`                   |      |                                    `                  LightCave     \_                               
+`                Golden--Golden-Passage                         `                      |           \__                            
+`                 Cave    Cave     |                            `                      |              |                           
+`                   |              |                            `   Tunnel--Tunnel--LightCave<--Maze->Maze---Tunnel(B)            
+`    DarkPassage-Golden         Passage-Tunnel-Tunnel-Hole(C)   `  (T) fall            |       /|\    /|\    (up to B1)           
+`       (A)       Cave             |             /|\   (to B3)  `   from B1            |        |      |                          
+`    (up from B1)               Passage           |             `                    Maze----->Maze---Maze                        
+`                                  |              |             `                               |                                 
+`                               Passage    Cave-Cave            `                               |                                 
+`                                  |         |     |            `                   LgCave---LgCave                               
+`                               Passage----Cave-Cave            `                     |         |                                 
+`                                                               `                   LgCave---LgCave-Tunnel--EndOfTunnel           
+`                                                               `                                     |                           
+`                                                               `                                   Hole                          
+`                                                               `                               to EndOfMaze(D)                   
+`                                                               `                                  (down to B3)                   
+`                                                                                                                                 
+`                                                                                                                                 
+` Low level (B3)                                                                                                                  
+`                                                                           DarkHole                                              
+`                                                                               |                                                 
+`                                                                      .-- SmallPassage`.                                         
+`                                                                    |/_        |       |                                         
+`                   Tunnel(C)-->LgTunnel----------LgTunnel---------LgTunnel--TCrossing<-'                                         
+`                    (to B2)        |                                           |                                                 
+`                                   |                                           |                                                 
+`                               WetTunnel<--------SmallMaze--SmallMaze   TunnelAtInscription                                      
+`                                   |                  |         |              |                                                 
+`                               WetTunnel         SmallMaze->SmallMaze---EntranceToSmallMaze                                      
+`                                   |                  |                        |                                                 
+`                                   |                  |                        |                                                 
+`                              In The Water         WetMaze---WetMaze---->End of tunnel                                           
+`                                   |                  |         |             /|\                                                
+`                                   |                  |     EndOfMaze          |                                                 
+`                                   |                  |      up to (D)         |                                                 
+`                                   |                  |        (B2)            |                                                 
+`                                   |                 \|/                       |                                                 
+`                              In The Water----------InWater--------------->At the Cliff                                          
+`                                                                                                                                 
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+Moria is a complicated zone. Where it's located, it's forseeable how new players can accidentally wander there. The enemies       
+inside are not too bad but you run the simple risk of getting lost. It's 3D, full of loopy maze-like structures and one-way       
+travels. Yeah, you could try and carefully navigate the whole thing. It may be quicker to simply recall out. On the plus side,    
+you can stay on the first level and get access to Elemental Canyon.                                                               
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
