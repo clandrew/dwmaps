@@ -26,11 +26,11 @@ Top level (B1)
 `                                                                   |                                     Lion's                  
 `                           Hill Giant's---Cave-------Level-------Grassy Area                             Den                     
 `                            Cave          Entrance   Foothills     |                                      |                      
-`                                                                 Intersection--Path--Base of the--Trail--Top---(X)               
-`                                                                   |                  Mountain                                   
-`                                                                 Foothills                                                       
-`                                                                   |                                                             
-`                                                  LightCave      Valley                                                          
+`                                                                 Intersection--Path--Base of the--Trail--Top---Midair            
+`                                                                   |                  Mountain                 (DEATH            
+`                                                                 Foothills                                       TRAP)           
+`                                                                   |                                            and passage      
+`                                                  LightCave      Valley                                           to sewer       
 `                                                      |            |                                                             
 `                                                 SmellyTunnel    Cave                                                            
 `                                                      |            |                                                             

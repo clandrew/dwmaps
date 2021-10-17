@@ -1,14 +1,14 @@
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-`                                                                                                                                                                                                                                                                                                                                                                                                     
-`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-`   Den of --  on a ----Webbed                                                                                                                                                                                                                                                                                                                                                                                                                                   
-`  queen     spider    Entrance                                                                                                                                                 
-`  spider     web         | 
-`                         | 
-`                       Up in                                                                                                                                                
-`                        Tree                                                               
-`                         .                                                                                                                                                  
-`                         . (from Haon Dor) 
-
-
-Yes, this zone is really small. Not worth stressing over too much.
+                                                                                
+`                                                                               
+`                                                                               
+`   Den of --  on a ----Webbed                                                  
+`  queen     spider    Entrance                                                 
+`  spider     web         |                                                     
+`                         |                                                     
+`                       Up in                                                   
+`                        Tree                                                   
+`                         .                                                     
+`                         . (from Haon Dor)                                     
+                                                                                
+                                                                                
+Yes, this zone is really small. Not worth stressing over too much.              
