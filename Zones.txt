@@ -5,21 +5,21 @@
                                                                                                     
                                                                                                     
                                                                Element                              
-                                                                Canyon      ?                       
-               Timeless                                           |         |                       
-                 Wastes                                          /         /                        
-                       \   ?                 ?         Acme   Moria  Kings                          
-             Arachnos   \  |                 |         Acres    |    Castle                         
-                    \____ Haon               |         |        |     |                             
-                           Dor ------------Asgaard---------East Path--+------?                      
-                        /  |   \          /  City               |                                   
-                       /  Mist? \        /       |              |                                   
-                      /          |       |       |              |                                   
-                     |  ?      Lupin?  Ancient   |             /  Parnor's                          
-                     | /               Temple?   |      Dwarven___/ Keep                            
-               Blizzard                        Miden    Kingdom                                     
-                     |                         'Nir                                                 
-                   Mahn                                                                             
+                                                                Canyon             ?                
+    High       Timeless                                           |                |                
+   Tower of      Wastes                                          /                /                 
+   Sorcery             \   ?                 ?         Acme   Moria-Sewer   Kings                   
+       |     Arachnos   \  |                 |         Acres    |           Castle                  
+       |            \____ Haon               |         |        |            |                      
+     Shadow______________  Dor ------------Asgaard-----+--------+------------+------?               
+     Grove               / |   \          /  City               |                                   
+                        / Mist? \        /     |                |                                   
+                       /         |       |     |                |                                   
+                      / ?      Lupin?  Ancient |               /  Paranor's                          
+                     | /               Temple? |        Dwarven___/ Keep                            
+               Blizzard                        |        Kingdom                                     
+                     |                        Miden                                                 
+                   Mahn                       'Nir                                                  
                    Tor                                                                              
                                                                                                     
                                                                                                     
@@ -30,7 +30,7 @@
                                                                                                     
                                                                                                     
                                                                                                     
-Idea: have each cell here correspond to a zoomed-in map.                                            
+Each label here is a zone.                                                                          
 Some locations aren't in the "help world" map.                                                      
                                                                                                     
                                                                                                     
